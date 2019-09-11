@@ -1,0 +1,10 @@
+{
+  "resources":[
+    {"pattern":"META-INF/MANIFEST.MF"}, 
+    {"pattern":"META-INF/services/io.vertx.core.spi.BufferFactory"}, 
+    {"pattern":"META-INF/services/io.vertx.core.spi.FutureFactory"}, 
+    {"pattern":"META-INF/services/io.vertx.core.spi.VertxFactory"}, 
+    {"pattern":"META-INF/services/io.vertx.core.spi.launcher.CommandFactory"}, 
+    {"pattern":"org/slf4j/impl/StaticLoggerBinder.class"}
+  ]
+}
